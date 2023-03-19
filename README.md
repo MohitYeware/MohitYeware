@@ -11,5 +11,5 @@ I'm interested in -
 I'm currently learning -
 - Blockchain, Web3, DeFi
 
-# You can reach me on: 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-yeware-a47684164/)
+#### You can reach me on: 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-yeware-a47684164/)
